@@ -98,3 +98,9 @@ Make sure your .env file is not pushed to version control by adding it to .gitig
   _Get all comments on a specific poll._
 
 ---
+```
+### License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+****
+
